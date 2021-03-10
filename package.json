@@ -1,7 +1,7 @@
 {
   "name": "store-func",
   "version": "0.1.0",
-  "homepage": "https://github.com/valerie-sidman/decomposition",
+  "homepage": "https://valerie-sidman.github.io/decomposition/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.3",
