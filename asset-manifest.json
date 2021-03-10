@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/decomposition/static/css/main.cfd295f1.chunk.css",
+    "main.js": "/decomposition/static/js/main.a97cc93d.chunk.js",
+    "main.js.map": "/decomposition/static/js/main.a97cc93d.chunk.js.map",
+    "runtime-main.js": "/decomposition/static/js/runtime-main.b97605ac.js",
+    "runtime-main.js.map": "/decomposition/static/js/runtime-main.b97605ac.js.map",
+    "static/js/2.854221a0.chunk.js": "/decomposition/static/js/2.854221a0.chunk.js",
+    "static/js/2.854221a0.chunk.js.map": "/decomposition/static/js/2.854221a0.chunk.js.map",
+    "static/js/3.c218090d.chunk.js": "/decomposition/static/js/3.c218090d.chunk.js",
+    "static/js/3.c218090d.chunk.js.map": "/decomposition/static/js/3.c218090d.chunk.js.map",
+    "index.html": "/decomposition/index.html",
+    "static/css/main.cfd295f1.chunk.css.map": "/decomposition/static/css/main.cfd295f1.chunk.css.map",
+    "static/js/2.854221a0.chunk.js.LICENSE.txt": "/decomposition/static/js/2.854221a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b97605ac.js",
+    "static/js/2.854221a0.chunk.js",
+    "static/css/main.cfd295f1.chunk.css",
+    "static/js/main.a97cc93d.chunk.js"
+  ]
+}
